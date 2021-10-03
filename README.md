@@ -6,8 +6,8 @@ The Odin Project - Foundations - Flexbox project: Landing Page showcasing full l
 As whith previous project, this one also focuses on git usage and habbit of commiting early and often.
 
 ## Check it live
-to be added
+TBA
 
 ## Acknowledgements
-to be added
+TBA
 
