@@ -5,7 +5,7 @@ body {
   display: flex;
   justify-content: center;
 }
-.firstwrap {
+.oddwrap {
   background-color: #1F2937;
 }
 .section {
@@ -42,7 +42,7 @@ body {
 }
 .hero-text h1 {
   font-size: 48px;
-  font-weight: bold;
+  font-weight: 900;
   color: #F9FAF8;
   margin: 0;
 }
@@ -70,4 +70,31 @@ body {
 }
 .hero-image p {
   color: #E5E7EB;
+}
+.info-title {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1F2937;
+  padding: 3rem;
+  text-align: center;
+}
+.info-items {
+  display: flex;
+  gap: 3rem;
+  margin-bottom: 10rem;
+
+}
+.info-item {
+  width: 150px;
+  height: 200px;
+}
+.info-item div {
+  border: 0.3rem solid #3882F8;
+  width: 150px;
+  height: 140px;
+  border-radius: 0.8rem;
+}
+.info-item p {
+  margin: 0;
+  text-align: center;
 }
