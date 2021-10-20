@@ -117,3 +117,30 @@ body {
   font-weight: 700;
   color: black;
 }
+.banner {
+  display: flex;
+  justify-content: space-around;
+  background-color: #3882F8;
+  border-radius: 0.4rem;
+  border-style: none;
+  width: 900px;
+  padding: 2rem;
+  margin: 5rem 0;
+}
+.banner-text h3 {
+  margin: 0;
+  color: #F9FAF8;
+}
+.banner-text p {
+  margin: 0;
+  color: #F9FAF8;
+}
+.banner-button {
+  background-color: transparent;
+  border: 0.2rem solid #F9FAF8;
+  border-radius: 0.4rem;
+  color: #F9FAF8;
+  padding: 0 2rem;
+  font-weight: 700;
+  font-size: 16px;
+}
