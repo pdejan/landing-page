@@ -5,9 +5,10 @@ The Odin Project - Foundations - Flexbox project: Landing Page showcasing full l
 ## Git
 As whith previous project, this one also focuses on git usage and habbit of commiting early and often.
 
-## Check it live
-TBA
+## Mockup
+Assignment mockup files can be found in assets directory
 
-## Acknowledgements
-TBA
+## Check it live
+[https://pdejan.github.io/landing-page/](https://pdejan.github.io/landing-page/)
+
 

@@ -85,7 +85,7 @@ body {
 .info-items {
   display: flex;
   gap: 3rem;
-  margin-bottom: 8rem;
+  margin-bottom: 6rem;
 
 }
 .info-item {
